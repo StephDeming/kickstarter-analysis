@@ -1,7 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 performing analysis on EXCEL Kickstarter data to uncover trends
-![outcomesBasedOnLaunchDateChart]assets/images/outcomesBasedOnLaunchDateChart.png
-![ParentCategoryOutcomesChart]assets/images/ParentCategoryOutcomesChart.png
+
 ## Purpose
 The purpose of this analysis was to help the client (Louise) understand how 
 well her projects went in regards to the funding goals as well as the project
