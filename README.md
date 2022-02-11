@@ -2,8 +2,7 @@
 performing analysis on EXCEL Kickstarter data to uncover trends
 
 ## Purpose
-The purpose of this analysis was to help the client (Louise) understand how 
-well her projects went in regards to the funding goals as well as the project
+To help the client understand how well her projects went in regards to the funding goals as well as the project
 launch dates. 
 
 ## Analysis and Challenges
